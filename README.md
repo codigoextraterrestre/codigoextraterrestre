@@ -6,6 +6,8 @@ Agora iremos ensinar a você como é o mundo da programação.
 
 Será coisa de OUTRO MUNDO?
 
+👩‍💻 <a href="https://codigo-extraterrestre.vercel.app/" target="_blank">Nosso SITE</a>
+
   
   ##
  
