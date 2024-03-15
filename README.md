@@ -1,16 +1,17 @@
-### Hi there 👋
+# Saudações 👽👋
 
-<!--
-**codigoextraterrestre/codigoextraterrestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nossa nave acabou de pousar no planeta Terra!
 
-Here are some ideas to get you started:
+Agora iremos ensinar a você como é o mundo da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Será coisa de OUTRO MUNDO?
+
+  
+  ##
+ 
+<div>   
+  <a href="https://instagram.com/codigoextraterrestre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/codigoextraterrestre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.tiktok.com/@codigoextraterrestre" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a> 
+ 
+</div>
